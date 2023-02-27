@@ -5,7 +5,7 @@
 	"capacityAvailable": ["64GB", "256GB", "512GB"],
 	"capacity": "256GB",
 	"priceRegular": 1640,
-	"priceDiscount": 1570,
+	"priceDiscount": 1640,
 	"colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
 	"color": "silver",
 	"images": [

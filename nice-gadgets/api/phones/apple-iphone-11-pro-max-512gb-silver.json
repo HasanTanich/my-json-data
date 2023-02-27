@@ -5,7 +5,7 @@
 	"capacityAvailable": ["64GB", "256GB", "512GB"],
 	"capacity": "512GB",
 	"priceRegular": 2020,
-	"priceDiscount": 1930,
+	"priceDiscount": 2020,
 	"colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
 	"color": "silver",
 	"images": [
