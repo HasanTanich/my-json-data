@@ -1,19 +1,27 @@
 {
-    "id": "apple-iphone-xr-128gb-red",
+	"id": "apple-iphone-xr-128gb-red",
 	"namespaceId": "apple-iphone-xr",
 	"name": "Apple iPhone XR 128GB Red",
-	"capacityAvailable": ["64GB", "128GB"],
+	"capacityAvailable": [
+		"64GB",
+		"128GB"
+	],
 	"capacity": "128GB",
 	"priceRegular": 880,
 	"priceDiscount": 815,
-	"colorsAvailable": ["white", "yellow", "red", "coral"],
+	"colorsAvailable": [
+		"white",
+		"yellow",
+		"red",
+		"coral"
+	],
 	"color": "red",
 	"images": [
-		"img/phones/apple-iphone-xr/red/00.jpg",
-		"img/phones/apple-iphone-xr/red/01.jpg",
-		"img/phones/apple-iphone-xr/red/02.jpg",
-		"img/phones/apple-iphone-xr/red/03.jpg",
-		"img/phones/apple-iphone-xr/red/04.jpg"
+		"https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-xr/red/00.jpg",
+		"https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-xr/red/01.jpg",
+		"https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-xr/red/02.jpg",
+		"https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-xr/red/03.jpg",
+		"https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-xr/red/04.jpg"
 	],
 	"description": [
 		{
@@ -42,5 +50,12 @@
 	"ram": "3GB",
 	"camera": "12 Mp + 7 MP",
 	"zoom": "Digital, 5x",
-	"cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+	"cell": [
+		"GPRS",
+		"EDGE",
+		"WCDMA",
+		"UMTS",
+		"HSPA",
+		"LTE"
+	]
 }

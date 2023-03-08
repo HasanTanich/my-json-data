@@ -2,18 +2,25 @@
   "id": "apple-iphone-7-32gb-silver",
   "namespaceId": "apple-iphone-7",
   "name": "Apple iPhone 7 32GB Silver",
-  "capacityAvailable": ["32GB"],
+  "capacityAvailable": [
+    "32GB"
+  ],
   "capacity": "32GB",
   "priceRegular": 400,
   "priceDiscount": 375,
-  "colorsAvailable": ["black", "rosegold", "gold", "silver"],
+  "colorsAvailable": [
+    "black",
+    "rosegold",
+    "gold",
+    "silver"
+  ],
   "color": "silver",
   "images": [
-    "img/phones/apple-iphone-7/silver/00.jpg",
-    "img/phones/apple-iphone-7/silver/01.jpg",
-    "img/phones/apple-iphone-7/silver/02.jpg",
-    "img/phones/apple-iphone-7/silver/03.jpg",
-    "img/phones/apple-iphone-7/silver/04.jpg"
+    "https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-7/silver/00.jpg",
+    "https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-7/silver/01.jpg",
+    "https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-7/silver/02.jpg",
+    "https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-7/silver/03.jpg",
+    "https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-7/silver/04.jpg"
   ],
   "description": [
     {
@@ -42,5 +49,12 @@
   "ram": "2GB",
   "camera": "12 Mp + 7 Mp",
   "zoom": "Digital, 5x",
-  "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+  "cell": [
+    "GPRS",
+    "EDGE",
+    "WCDMA",
+    "UMTS",
+    "HSPA",
+    "LTE"
+  ]
 }

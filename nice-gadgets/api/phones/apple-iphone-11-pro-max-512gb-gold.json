@@ -1,17 +1,26 @@
 {
-    "id": "apple-iphone-11-pro-max-512gb-gold",
+	"id": "apple-iphone-11-pro-max-512gb-gold",
 	"namespaceId": "apple-iphone-11-pro-max",
 	"name": "Apple iPhone 11 Pro Max 512GB Gold",
-	"capacityAvailable": ["64GB", "256GB", "512GB"],
+	"capacityAvailable": [
+		"64GB",
+		"256GB",
+		"512GB"
+	],
 	"capacity": "512GB",
 	"priceRegular": 2020,
 	"priceDiscount": 2020,
-	"colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+	"colorsAvailable": [
+		"spacegray",
+		"midnightgreen",
+		"gold",
+		"silver"
+	],
 	"color": "gold",
 	"images": [
-		"img/phones/apple-iphone-11-pro-max/gold/00.jpg",
-		"img/phones/apple-iphone-11-pro-max/gold/01.jpg",
-		"img/phones/apple-iphone-11-pro-max/gold/02.jpg"
+		"https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-11-pro-max/gold/00.jpg",
+		"https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-11-pro-max/gold/01.jpg",
+		"https://hasantanich.github.io/my-json-data/nice-gadgets/api/img/phones/apple-iphone-11-pro-max/gold/02.jpg"
 	],
 	"description": [
 		{
@@ -40,5 +49,12 @@
 	"ram": "4GB",
 	"camera": "12 Mp + 12 Mp + 12MP",
 	"zoom": "Digital, 10x / Optical, 2x",
-	"cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+	"cell": [
+		"GPRS",
+		"EDGE",
+		"WCDMA",
+		"UMTS",
+		"HSPA",
+		"LTE"
+	]
 }
