@@ -40,6 +40,8 @@
         "usb": "USB 2.0"
     },
     "id": "samsung-gem",
+    "priceRegular": 560,
+    "priceDiscount": 550,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/samsung-gem.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/samsung-gem.1.jpg",

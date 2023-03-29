@@ -40,6 +40,8 @@
         "usb": "USB 2.0"
     },
     "id": "sanyo-zio",
+    "priceRegular": 750,
+    "priceDiscount": 730,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/sanyo-zio.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/sanyo-zio.1.jpg",

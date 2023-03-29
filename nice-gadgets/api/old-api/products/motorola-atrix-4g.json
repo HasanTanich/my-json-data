@@ -40,6 +40,8 @@
         "usb": "USB 2.0"
     },
     "id": "motorola-atrix-4g",
+    "priceRegular": 430,
+    "priceDiscount": 430,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-atrix-4g.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-atrix-4g.1.jpg",

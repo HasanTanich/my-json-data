@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "motorola-xoom-with-wi-fi",
+    "priceRegular": 780,
+    "priceDiscount": 780,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-xoom-with-wi-fi.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-xoom-with-wi-fi.1.jpg",

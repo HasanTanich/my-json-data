@@ -43,6 +43,8 @@
         "usb": "USB 2.0"
     },
     "id": "dell-venue",
+    "priceRegular": 300,
+    "priceDiscount": 300,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/dell-venue.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/dell-venue.1.jpg",

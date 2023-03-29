@@ -44,6 +44,8 @@
         "usb": "USB 2.0"
     },
     "id": "samsung-galaxy-tab",
+    "priceRegular": 190,
+    "priceDiscount": 190,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/samsung-galaxy-tab.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/samsung-galaxy-tab.1.jpg",

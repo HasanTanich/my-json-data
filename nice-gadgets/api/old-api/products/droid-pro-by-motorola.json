@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "droid-pro-by-motorola",
+    "priceRegular": 740,
+    "priceDiscount": 730,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/droid-pro-by-motorola.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/droid-pro-by-motorola.1.jpg"

@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "t-mobile-mytouch-4g",
+    "priceRegular": 390,
+    "priceDiscount": 380,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/t-mobile-mytouch-4g.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/t-mobile-mytouch-4g.1.jpg",

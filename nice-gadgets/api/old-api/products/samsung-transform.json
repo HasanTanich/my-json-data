@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "samsung-transform",
+    "priceRegular": 30,
+    "priceDiscount": 10,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/samsung-transform.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/samsung-transform.1.jpg",

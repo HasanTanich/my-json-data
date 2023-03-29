@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "droid-2-global-by-motorola",
+    "priceRegular": 350,
+    "priceDiscount": 330,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/droid-2-global-by-motorola.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/droid-2-global-by-motorola.1.jpg",

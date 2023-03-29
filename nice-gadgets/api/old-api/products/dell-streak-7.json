@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "dell-streak-7",
+    "priceRegular": 150,
+    "priceDiscount": 150,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/dell-streak-7.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/dell-streak-7.1.jpg",

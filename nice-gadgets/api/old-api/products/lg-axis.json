@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "lg-axis",
+    "priceRegular": 590,
+    "priceDiscount": 570,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/lg-axis.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/lg-axis.1.jpg",

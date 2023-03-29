@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "samsung-showcase-a-galaxy-s-phone",
+    "priceRegular": 350,
+    "priceDiscount": 330,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/samsung-showcase-a-galaxy-s-phone.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/samsung-showcase-a-galaxy-s-phone.1.jpg",

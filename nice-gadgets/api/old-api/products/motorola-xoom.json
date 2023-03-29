@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "motorola-xoom",
+    "priceRegular": 710,
+    "priceDiscount": 710,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-xoom.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-xoom.1.jpg",

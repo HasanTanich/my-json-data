@@ -40,6 +40,8 @@
         "usb": "USB 2.0"
     },
     "id": "motorola-bravo-with-motoblur",
+    "priceRegular": 250,
+    "priceDiscount": 250,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-bravo-with-motoblur.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-bravo-with-motoblur.1.jpg",

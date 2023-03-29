@@ -41,6 +41,8 @@
         "usb": "USB 2.0"
     },
     "id": "motorola-charm-with-motoblur",
+    "priceRegular": 400,
+    "priceDiscount": 400,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-charm-with-motoblur.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-charm-with-motoblur.1.jpg",

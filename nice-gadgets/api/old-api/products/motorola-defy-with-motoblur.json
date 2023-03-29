@@ -43,6 +43,8 @@
         "usb": "USB 2.0"
     },
     "id": "motorola-defy-with-motoblur",
+    "priceRegular": 920,
+    "priceDiscount": 900,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-defy-with-motoblur.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/motorola-defy-with-motoblur.1.jpg",

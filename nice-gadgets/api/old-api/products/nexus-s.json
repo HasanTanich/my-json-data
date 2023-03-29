@@ -47,6 +47,8 @@
         "usb": "USB 2.0"
     },
     "id": "nexus-s",
+    "priceRegular": 480,
+    "priceDiscount": 470,
     "images": [
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/nexus-s.0.jpg",
         "https://hasantanich.github.io/my-json-data/nice-gadgets/api/old-api/img/phones/nexus-s.1.jpg",
