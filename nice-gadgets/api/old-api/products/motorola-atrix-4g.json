@@ -1,9 +1,12 @@
 {
-    "description": [
-        "MOTOROLA ATRIX 4G gives you dual-core processing power and the revolutionary webtop application. With webtop and a compatible Motorola docking station, sold separately, you can surf the Internet with a full Firefox browser, create and edit docs, or access multimedia on a large screen almost anywhere."
-    ],
     "name": "MOTOROLA ATRIX\u2122 4G",
     "id": "motorola-atrix-4g",
+    "description": [
+        {
+            "title": "",
+            "text": "MOTOROLA ATRIX 4G gives you dual-core processing power and the revolutionary webtop application. With webtop and a compatible Motorola docking station, sold separately, you can surf the Internet with a full Firefox browser, create and edit docs, or access multimedia on a large screen almost anywhere."
+        }
+    ],
     "priceRegular": 430,
     "priceDiscount": 430,
     "images": [

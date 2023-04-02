@@ -1,9 +1,12 @@
 {
-    "description": [
-        "Motorola XOOM with Wi-Fi has a super-powerful dual-core processor and Android\u2122 3.0 (Honeycomb) \u2014 the Android platform designed specifically for tablets. With its 10.1-inch HD widescreen display, you\u2019ll enjoy HD video in a thin, light, powerful and upgradeable tablet."
-    ],
     "id": "motorola-xoom-with-wi-fi",
     "name": "Motorola XOOM\u2122 with Wi-Fi",
+    "description": [
+        {
+            "title": "",
+            "text": "Motorola XOOM with Wi-Fi has a super-powerful dual-core processor and Android\u2122 3.0 (Honeycomb) \u2014 the Android platform designed specifically for tablets. With its 10.1-inch HD widescreen display, you\u2019ll enjoy HD video in a thin, light, powerful and upgradeable tablet."
+        }
+    ],
     "priceRegular": 780,
     "priceDiscount": 780,
     "images": [

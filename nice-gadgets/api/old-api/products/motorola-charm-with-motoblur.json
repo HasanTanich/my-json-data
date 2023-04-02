@@ -2,7 +2,10 @@
     "id": "motorola-charm-with-motoblur",
     "name": "Motorola CHARM\u2122 with MOTOBLUR\u2122",
     "description": [
-        "Motorola CHARM fits easily in your pocket or palm. Includes MOTOBLUR so you can sync and merge your contacts, emails, messages and posts with continuous updates and back-ups."
+        {
+            "title": "",
+            "text": "Motorola CHARM fits easily in your pocket or palm. Includes MOTOBLUR so you can sync and merge your contacts, emails, messages and posts with continuous updates and back-ups."
+        }
     ],
     "priceRegular": 400,
     "priceDiscount": 400,

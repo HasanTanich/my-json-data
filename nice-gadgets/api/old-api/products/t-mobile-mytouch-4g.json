@@ -1,9 +1,12 @@
 {
-    "description": [
-        "The myTouch 4G lets you connect fast, communicate easily, and share\u2014all on America\u2019s largest 4G network.\n\nBuilt with families in mind, the newest T-Mobile myTouch 4G helps solve the challenges of staying physically and emotionally connected by sharing photos and video with the HD Camcorder, spontaneous face-to-face conversations through Video Chat, and the ability to reach 4G speeds on T-Mobile\u2019s HSPA+ network."
-    ],
     "id": "t-mobile-mytouch-4g",
     "name": "T-Mobile myTouch 4G",
+    "description": [
+        {
+            "title": "",
+            "text": "The myTouch 4G lets you connect fast, communicate easily, and share\u2014all on America\u2019s largest 4G network.\n\nBuilt with families in mind, the newest T-Mobile myTouch 4G helps solve the challenges of staying physically and emotionally connected by sharing photos and video with the HD Camcorder, spontaneous face-to-face conversations through Video Chat, and the ability to reach 4G speeds on T-Mobile\u2019s HSPA+ network."
+        }
+    ],
     "priceRegular": 390,
     "priceDiscount": 380,
     "images": [

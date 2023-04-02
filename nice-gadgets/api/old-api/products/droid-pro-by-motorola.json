@@ -2,7 +2,10 @@
     "id": "droid-pro-by-motorola",
     "name": "DROID\u2122 Pro by Motorola",
     "description": [
-        "Access your work directory, email or calendar with DROID Pro by Motorola., an Android-for-business smartphone with corporate-level security. It features both a QWERTY keyboard and touchscreen, a speedy 1 GHz processor and Adobe\u00ae Flash\u00ae Player 10."
+        {
+            "title": "",
+            "text": "Access your work directory, email or calendar with DROID Pro by Motorola., an Android-for-business smartphone with corporate-level security. It features both a QWERTY keyboard and touchscreen, a speedy 1 GHz processor and Adobe\u00ae Flash\u00ae Player 10."
+        }
     ],
     "priceRegular": 740,
     "priceDiscount": 730,
